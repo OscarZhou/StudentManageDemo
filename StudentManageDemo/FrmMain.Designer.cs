@@ -67,7 +67,7 @@
             this.帮助HToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(913, 25);
+            this.menuStrip1.Size = new System.Drawing.Size(1062, 25);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -106,9 +106,9 @@
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsslVersion,
             this.tsslCurrentUser});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 516);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 536);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(913, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(1062, 22);
             this.statusStrip1.TabIndex = 1;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -145,9 +145,10 @@
             // spcLayout.Panel2
             // 
             this.spcLayout.Panel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("spcLayout.Panel2.BackgroundImage")));
+            this.spcLayout.Panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.spcLayout.Panel2.Controls.Add(this.lbTitle);
-            this.spcLayout.Size = new System.Drawing.Size(913, 491);
-            this.spcLayout.SplitterDistance = 236;
+            this.spcLayout.Size = new System.Drawing.Size(1062, 511);
+            this.spcLayout.SplitterDistance = 274;
             this.spcLayout.TabIndex = 2;
             // 
             // mcldTime
@@ -275,7 +276,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(913, 538);
+            this.ClientSize = new System.Drawing.Size(1062, 558);
             this.Controls.Add(this.spcLayout);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
