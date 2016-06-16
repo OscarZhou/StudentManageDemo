@@ -1,1 +1,11 @@
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.exe
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.FrmAddStudent.resources
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.FrmLogin.resources
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.FrmMain.resources
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.FrmStudentManage.resources
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.Properties.Resources.resources
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.StudentInfoDetail.resources
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.csproj.GenerateResource.Cache
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.pdb
 D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\bin\Debug\StudentManageDemo.exe.config
+D:\Users\Oscar\Visual Studio\VIPProjects\StudentManageDemo\StudentManageDemo\obj\Debug\StudentManageDemo.csprojResolveAssemblyReference.cache
